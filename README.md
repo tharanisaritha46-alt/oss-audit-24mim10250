@@ -1,8 +1,8 @@
-# oss-audit-24MIM10074
+# oss-audit-24MIM10250
 
 This is my Open Source Software lab repo for auditing **Git** on **Ubuntu 24.04 (WSL2)**.
 
-I’m **Abhijeet** (`Abhijeet`, reg no `24MIM10074`). I wrote a few small shell scripts to pull basic system info, check package info, audit a couple of directories, and scan a log file for keyword matches.
+I’m **Saritha Tharani** (`Saritha Tharani`, reg no `24MIM10250`). I wrote a few small shell scripts to pull basic system info, check package info, audit a couple of directories, and scan a log file for keyword matches.
 
 ## What’s inside
 
@@ -11,11 +11,11 @@ I’m **Abhijeet** (`Abhijeet`, reg no `24MIM10074`). I wrote a few small shell 
 - `script3.sh` - Disk and Permission Auditor for a few common folders
 - `script4.sh` - Log file analyzer (counts keyword matches)
 - `script5.sh` - Open Source Manifesto Generator (interactive)
-- `manifesto_Abhijeet.txt` - Example output from the manifesto generator
+- `manifesto_Saritha.txt` - Example output from the manifesto generator
 
 ## How to run the scripts
 
-From the repo directory (`https://github.com/abhijeet10118/oss-audit-24mim10074`):
+From the repo directory (`https://github.com/tharanisaritha46-alt/oss-audit-24mim10250.git`):
 
 1. Make them executable (one-time):
    - `chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh`

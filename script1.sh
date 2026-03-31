@@ -1,12 +1,12 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Abhijjeet (24MIM10074)
+# Author: Saritha Tharani (24MIM10250)
 # Course: Open Source Software
 # Software Choice: Git
 
 # --- Variables ---
 # Specific details for audit 
-STUDENT_NAME="Abhijeet"
+STUDENT_NAME="Saritha Tharani"
 SOFTWARE_CHOICE="Git"
 
 # --- System info ---
